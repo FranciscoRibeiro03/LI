@@ -1,0 +1,482 @@
+<stats>
+  <value time="1649780702">
+    <cpu>3.0</cpu>
+    <ram>13614706688</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac80100&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780703">
+    <cpu>1.4</cpu>
+    <ram>13618909184</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80100&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780704">
+    <cpu>1.0</cpu>
+    <ram>13623128064</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80100&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780705">
+    <cpu>1.1</cpu>
+    <ram>13639372800</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25d40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780706">
+    <cpu>0.8</cpu>
+    <ram>13649027072</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25cc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780707">
+    <cpu>12.8</cpu>
+    <ram>13640581120</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780708">
+    <cpu>38.6</cpu>
+    <ram>13656969216</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80140&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780709">
+    <cpu>8.7</cpu>
+    <ram>13656244224</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25fc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780710">
+    <cpu>8.6</cpu>
+    <ram>13671292928</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25f80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780711">
+    <cpu>18.1</cpu>
+    <ram>13672366080</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780712">
+    <cpu>30.9</cpu>
+    <ram>13665038336</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac801c0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780713">
+    <cpu>15.6</cpu>
+    <ram>13658443776</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25cc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780714">
+    <cpu>6.8</cpu>
+    <ram>13659684864</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25e40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780715">
+    <cpu>2.4</cpu>
+    <ram>13667377152</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780716">
+    <cpu>0.6</cpu>
+    <ram>13679706112</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80080&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780717">
+    <cpu>4.5</cpu>
+    <ram>13693595648</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25f80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780718">
+    <cpu>2.0</cpu>
+    <ram>13695623168</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25ec0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780719">
+    <cpu>0.5</cpu>
+    <ram>13699747840</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780720">
+    <cpu>2.2</cpu>
+    <ram>13707173888</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80700&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780721">
+    <cpu>3.5</cpu>
+    <ram>13695963136</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25e40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780722">
+    <cpu>0.9</cpu>
+    <ram>13695991808</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25d80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780723">
+    <cpu>1.0</cpu>
+    <ram>13694984192</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780724">
+    <cpu>0.6</cpu>
+    <ram>13695242240</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80240&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780725">
+    <cpu>0.4</cpu>
+    <ram>13694726144</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25ec0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780726">
+    <cpu>0.7</cpu>
+    <ram>13703995392</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25f40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780727">
+    <cpu>1.9</cpu>
+    <ram>13695348736</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780728">
+    <cpu>1.0</cpu>
+    <ram>13694869504</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80780&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780729">
+    <cpu>0.7</cpu>
+    <ram>13694898176</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25d80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780730">
+    <cpu>0.7</cpu>
+    <ram>13694902272</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25e80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780731">
+    <cpu>5.8</cpu>
+    <ram>13691146240</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780732">
+    <cpu>17.7</cpu>
+    <ram>13670699008</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80100&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780733">
+    <cpu>17.7</cpu>
+    <ram>13668925440</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25f40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780734">
+    <cpu>2.8</cpu>
+    <ram>13672620032</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25d40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780735">
+    <cpu>2.3</cpu>
+    <ram>13692366848</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780736">
+    <cpu>5.5</cpu>
+    <ram>13692649472</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80140&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780737">
+    <cpu>13.2</cpu>
+    <ram>13692035072</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25e80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780738">
+    <cpu>8.3</cpu>
+    <ram>13690572800</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25fc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780739">
+    <cpu>8.1</cpu>
+    <ram>13684547584</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780740">
+    <cpu>6.0</cpu>
+    <ram>13683052544</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac801c0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780741">
+    <cpu>9.2</cpu>
+    <ram>13681557504</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25d40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780742">
+    <cpu>6.6</cpu>
+    <ram>13684461568</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25cc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780743">
+    <cpu>3.4</cpu>
+    <ram>13691768832</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780744">
+    <cpu>2.9</cpu>
+    <ram>13700407296</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80080&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780745">
+    <cpu>1.9</cpu>
+    <ram>13699645440</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25fc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780746">
+    <cpu>1.9</cpu>
+    <ram>13699678208</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25f80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780747">
+    <cpu>2.5</cpu>
+    <ram>13699424256</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780748">
+    <cpu>2.1</cpu>
+    <ram>13694173184</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80700&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780749">
+    <cpu>2.2</cpu>
+    <ram>13693984768</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25cc0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780750">
+    <cpu>2.0</cpu>
+    <ram>13693984768</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25e40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780751">
+    <cpu>1.9</cpu>
+    <ram>13694013440</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780752">
+    <cpu>2.2</cpu>
+    <ram>13694017536</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80240&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780753">
+    <cpu>2.1</cpu>
+    <ram>13694054400</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25f80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780754">
+    <cpu>1.6</cpu>
+    <ram>13693849600</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25ec0&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780755">
+    <cpu>2.4</cpu>
+    <ram>13694455808</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80180&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780756">
+    <cpu>2.5</cpu>
+    <ram>13694197760</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80780&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780757">
+    <cpu>1.6</cpu>
+    <ram>13694492672</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac85500&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25e40&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780758">
+    <cpu>2.0</cpu>
+    <ram>13697720320</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac90900&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25d80&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780759">
+    <cpu>1.8</cpu>
+    <ram>13698494464</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cfc0&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80200&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780760">
+    <cpu>1.5</cpu>
+    <ram>13698056192</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac7cf40&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ac80100&gt;</packetsSent>
+    </network>
+  </value>
+  <value time="1649780761">
+    <cpu>1.9</cpu>
+    <ram>13698600960</ram>
+    <network>
+      <packetsReceived>&lt;Element packetsReceived at 0x7faa3ac93300&gt;</packetsReceived>
+      <packetsSent>&lt;Element packetsSent at 0x7faa3ab25ec0&gt;</packetsSent>
+    </network>
+  </value>
+</stats>
