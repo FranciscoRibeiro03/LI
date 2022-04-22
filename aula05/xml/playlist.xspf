@@ -6,7 +6,7 @@
     <info>http://example.com/myplaylists</info>
     <trackList>
         <track>
-            <locatioan>http://example.com/my.mp3</locatioan>
+            <location>http://example.com/my.mp3</location>
             <title>My Way</title>
             <creator>Frank Sinatra</creator>
             <annotation>This is my theme song.</annotation>

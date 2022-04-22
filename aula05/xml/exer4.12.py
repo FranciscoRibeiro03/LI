@@ -9,8 +9,9 @@ def main():
     root = etree.Element("validator")
     valid = etree.SubElement(root, "valid")
     valid.text = str(validator.validate(doc))
-    error = etree.SubElement(root, "error")
-    error.text = validator.error_log.last_error.message
+    if validator.error_log.last_error is not None:
+        error = etree.SubElement(root, "error")
+        error.text = validator.error_log.last_error.message
 
     print(etree.tostring(root, pretty_print=True).decode())
 
